@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DOB in Seconds</string>
+    <string name="calculate_your">Calculate your </string>
+    <string name="age">AGE</string>
+    <string name="in_sec">in seconds</string>
+    <string name="select_date">Select date</string>
+    <string name="age_in_sec">Age in Seconds</string>
+    <string name="date">XX.XX.XXXX</string>
+    <string name="selected_date">Selected date</string>
+    <string name="sec_value">00000000</string>
+    <string name="second">Seconds</string>
+</resources>
